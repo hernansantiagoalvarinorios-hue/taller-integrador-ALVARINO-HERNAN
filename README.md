@@ -20,5 +20,5 @@
 
 ## Enlaces
 
-- Repositorio en GitHub: `<pendiente — pegar URL>`
-- Sitio publicado en Netlify: `<pendiente — pegar URL>`
+- Repositorio en GitHub: `https://github.com/hernansantiagoalvarinorios-hue/taller-integrador-ALVARINO-HERNAN/tree/main`
+- Sitio publicado en Netlify: `https://unrivaled-choux-bb5917.netlify.app/`
